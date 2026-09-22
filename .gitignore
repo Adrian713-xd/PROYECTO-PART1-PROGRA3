@@ -1,0 +1,15 @@
+# Compilacion
+build/
+*.o
+*.a
+streaming
+pruebas
+pruebas_dbg
+
+# Dataset (81 MB) y cache binario (~200 MB): no se suben al repositorio
+data/*.csv
+*.cache
+
+# Estado local del usuario
+datos_usuario.txt
+*.tmp
