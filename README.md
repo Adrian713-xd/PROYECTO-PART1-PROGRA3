@@ -465,7 +465,7 @@ Latencias por tipo de consulta:
 | Al iniciar: Ver más tarde + similares a los Like | pantalla de inicio | ✅ |
 | Todo el programa en C++ | C++17, sin dependencias | ✅ |
 | Documentación en el repositorio | este README + `docs/` | ✅ |
-| Subir el programa a un repositorio en GitHub | `docs/repositorio-github.md` | ⬜ pendiente del grupo |
+| Subir el programa a un repositorio en GitHub | `docs/repositorio-github.md` | ✅ |
 | Pruebas automatizadas | `tests/pruebas.cpp` (64 pruebas) | ✅ |
 
 ---
