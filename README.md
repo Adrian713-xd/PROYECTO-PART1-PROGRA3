@@ -14,10 +14,10 @@ búsqueda y recomendación— está escrito en **C++17 sin dependencias externas
 
 | Nombre y apellidos | Código | Responsabilidad principal |
 |---|---|---|
-| *(completar)* | | Pre‑procesamiento y lector CSV |
+| alonsodelacruzz | | Pre‑procesamiento y lector CSV |
 | *(completar)* | | Tries e índice invertido |
-| *(completar)* | | Ranking y recomendaciones |
-| *(completar)* | | Interfaz e integración |
+| adrianvarillas-713 | | Ranking y recomendaciones |
+| luciano-msg | | Interfaz e integración |
 
 ---
 
